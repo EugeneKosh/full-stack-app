@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecretKey": "this string have something secret...",
+  "mongoUrl": "mongodb+srv://Eugene:12345qwert@cluster0.bmfra.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
